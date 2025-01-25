@@ -1,7 +1,7 @@
 
 import './index.css'
-// import  Todolist  from './Todolist'
-import Todolist from './todolist'
+import Todolist from './TodoList'
+
 
 
 function App() {
